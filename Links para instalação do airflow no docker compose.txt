@@ -1,0 +1,5 @@
+Comando via windowns para baixar o Airflow= bitsadmin /transfer "DownloadFile" "https://airflow.apache.org/docs/apache-airflow/2.6.1/docker-compose.yaml" "C:\Users\rafae\airflow\docker-compose.yaml"
+
+Comando via linux(Original da documentação)=curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.6.1/docker-compose.yaml'
+
+Links úteis=https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
